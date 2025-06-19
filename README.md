@@ -1,3 +1,3 @@
 # pteromox
 
-Script to build networked vm in proxmox and install Pterodactyl Panel for rapid deployment
+💻 Proxmox automation script to deploy a cloud-init Ubuntu VM and install Pterodactyl Panel + Wings in one step.
